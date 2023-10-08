@@ -9,3 +9,29 @@
         font-family: 'Barlow', sans-serif;
     }
 }
+
+@layer components {
+    .nav-link {
+        @apply bg-transparent font-medium px-3 py-1 rounded-none text-base
+    }
+
+    .nav-link:hover {
+        @apply bg-transparent text-theme
+    }
+
+    .nav-link:focus {
+        @apply bg-transparent
+    }
+
+    .active-nav {
+        @apply bg-transparent border border-theme text-theme font-medium px-3 py-1 rounded-none text-base
+    }
+
+    .primary-btn {
+        @apply font-semibold text-lg text-white bg-theme rounded-md border-2 border-theme py-2 px-11 transition-all duration-300
+    }
+
+    .primary-btn:hover {
+        @apply bg-transparent text-theme
+    }
+}
