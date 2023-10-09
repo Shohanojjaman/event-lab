@@ -1,8 +1,10 @@
+import Hamburger from 'hamburger-react';
 import { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 
 const Header = () => {
   const [navbar, setNavbar] = useState(false);
+  const [isOpen, setOpen] = useState(false);
   const logo = 'https://i.ibb.co/TmYqw6T/logo.png';
   const links = (
     <>
@@ -59,26 +61,27 @@ const Header = () => {
           </div>
           <div className="navbar-end" data-aos="fade-left">
             <ul className="menu menu-horizontal px-1 gap-5 mr-6 hidden lg:flex">{links}</ul>
-            <div className="dropdown dropdown-left">
-              <label tabIndex={0} className="btn btn-ghost lg:hidden">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="h-5 w-5"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" />
-                </svg>
-              </label>
-              <ul
-                tabIndex={0}
-                className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-                {links}
-                <Link to={'/login'} className="primary-btn">
-                  Log in
-                </Link>
-              </ul>
+            <div className="drawer lg:hidden">
+              <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
+              <div className="drawer-content flex justify-end">
+                <label htmlFor="my-drawer-4" className="btn-ghost btn btn-primary">
+                  <Hamburger toggled={isOpen} toggle={setOpen} />
+                </label>
+              </div>
+              <div className="drawer-side">
+                <label
+                  htmlFor="my-drawer-4"
+                  aria-label="close sidebar"
+                  className="drawer-overlay bg-black text-white"></label>
+                <ul className="menu p-4 w-80 min-h-full bg-black text-base-content">
+                  {links}
+                  <Link to={'/login'} className="primary-btn">
+                    Log in
+                  </Link>
+                </ul>
+              </div>
             </div>
+
             <Link to={'/login'} className="primary-btn hidden lg:inline-block">
               Log in
             </Link>
