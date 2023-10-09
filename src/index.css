@@ -34,4 +34,31 @@
     .primary-btn:hover {
         @apply bg-transparent text-theme
     }
+
+    .steps-vertical .step:before {
+        width: 0.2rem;
+    }
+
+    .step {
+        @apply transition-all duration-300
+    }
+
+    .steps .step:after {
+        content: '';
+        height: 0.6rem;
+        width: 0.6rem;
+    }
+
+    .steps-vertical .step {
+        /* min-height: 2.5rem; */
+        color: white;
+    }
+
+    .steps .step-primary:after {
+        @apply bg-theme transition-all duration-300
+    }
+
+    .step:hover {
+        @apply step-primary text-theme
+    }
 }
