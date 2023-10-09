@@ -2,6 +2,11 @@
 export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
+    container: {
+      padding: {
+        sm: '0, 1.25rem',
+      },
+    },
     extend: {
       colors: {
         theme: '#ce1446',
