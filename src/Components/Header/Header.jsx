@@ -49,16 +49,15 @@ const Header = () => {
     <div
       className={
         navbar ? 'bg-white fixed top-0 w-full' : 'bg-transparent transition-all duration-300 fixed top-0 w-full'
-      }
-      data-aos="fade-down">
+      }>
       <div className="container mx-auto">
         <div className="navbar items-center py-4">
-          <div className="navbar-start">
+          <div className="navbar-start" data-aos="fade-right">
             <Link to={'/'}>
               <img src={logo} alt="" />
             </Link>
           </div>
-          <div className="navbar-end">
+          <div className="navbar-end" data-aos="fade-left">
             <ul className="menu menu-horizontal px-1 gap-5 mr-6 hidden lg:flex">{links}</ul>
             <div className="dropdown dropdown-left">
               <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -80,7 +79,7 @@ const Header = () => {
                 </Link>
               </ul>
             </div>
-            <Link to={'/login'} className="primary-btn hidden lg:inline-block" data-aos="zoom-in-left">
+            <Link to={'/login'} className="primary-btn hidden lg:inline-block">
               Log in
             </Link>
           </div>
