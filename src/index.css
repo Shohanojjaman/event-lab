@@ -35,6 +35,14 @@
         @apply bg-transparent text-theme
     }
 
+    .secondary-btn {
+        @apply font-semibold text-lg text-theme bg-transparent rounded-md border-2 border-theme py-2 px-11 transition-all duration-300
+    }
+
+    .secondary-btn:hover {
+        @apply bg-theme text-white
+    }
+
     .steps-vertical .step:before {
         width: 0.2rem;
     }
@@ -60,5 +68,9 @@
 
     .step:hover {
         @apply step-primary text-theme
+    }
+
+    .hero-area {
+        background: conic-gradient(from 243.17deg at 52.66% 45.72%, rgba(206, 20, 70, 0.25) 0deg, rgba(255, 255, 255, 0) 66.85deg, rgba(222, 95, 129, 0.3) 266.25deg, rgba(206, 20, 70, 0.25) 360deg);
     }
 }
