@@ -6,9 +6,11 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
   const logo = 'https://i.ibb.co/rmDp12y/logo-v2.png';
   return (
-    <footer className="bg-heading py-20" data-aos="fade-up">
-      <div className="container mx-auto flex">
-        <div className="w-1/4 space-y-3 text-center" data-aos="fade-right">
+    <footer className="bg-heading py-10 lg:py-20" data-aos="fade-up">
+      <div className="container mx-auto grid grid-cols-4 grid-rows-2 lg:grid-rows-1 max-sm:gap-6">
+        <div
+          className="col-span-4 sm:col-span-2 lg:col-span-1 max-lg:row-span-2 space-y-3 flex flex-col max-lg:mx-16 md:text-center lg:items-center"
+          data-aos="fade-right">
           <h4 className="text-white text-2xl font-semibold">Quick Link</h4>
           <ul className="steps steps-vertical">
             <li className="step !min-h-[2.5rem]">
@@ -22,7 +24,9 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="w-1/2 flex flex-col  items-center text-center gap-6 text-[#ffffff66]" data-aos="fade-up">
+        <div
+          className="col-span-4 lg:col-span-2 max-lg:row-[1_/_span_1] lg:row-span-2 flex flex-col items-center justify-center text-center gap-6 text-[#ffffff66]"
+          data-aos="fade-up">
           <Link to={'/'}>
             <img src={logo} className="mx-auto" alt="Event Lav Logo" />
           </Link>
@@ -54,7 +58,9 @@ const Footer = () => {
             </a>
           </p>
         </div>
-        <div className="w-1/4 space-y-3 text-center" data-aos="fade-left">
+        <div
+          className="col-span-4 sm:col-span-2 lg:col-span-1 max-lg:row-span-2 space-y-3 flex flex-col max-lg:mx-16 md:text-center lg:items-center"
+          data-aos="fade-left">
           <h4 className="text-white text-2xl font-semibold">Contact</h4>
           <ul className="steps steps-vertical">
             <li className="step !min-h-[5rem]">
