@@ -1,0 +1,642 @@
+[
+  {
+    "id": "1",
+    "title": "Annual Corporate Conference",
+    "bg-image": "https://i.ibb.co/hB42W8L/event1.jpg",
+    "category": "Business",
+    "date": "2023-11-15",
+    "seat": "500",
+    "location": "Grand Convention Center",
+    "event_type": "Conference",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.5,
+    "total_rating": 120,
+    "description": "Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.Join us for our annual corporate conference featuring industry experts, workshops, and networking opportunities.",
+    "main_features": ["Keynote speakers", "Breakout sessions", "Networking receptions", "Product showcases"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Corporate Events Inc.",
+      "organizer_image": "https://i.ibb.co/cthrQJ1/Corporate-Events-Logo.jpg"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Product Launch Gala",
+    "bg-image": "https://i.ibb.co/rsphnYL/event2.jpg",
+    "category": "Product Launches",
+    "date": "2023-09-28",
+    "seat": "300",
+    "location": "Luxury Hotel Ballroom",
+    "event_type": "Product Launch",
+    "sponsors": [
+      "https://i.ibb.co/4ZPg8Fg/apple-Logo.png",
+      "https://i.ibb.co/VqM0bXB/gobaltach-Logo.jpg",
+      "https://i.ibb.co/R3bYf01/codeman-BD.webp"
+    ],
+    "rating": 4.8,
+    "total_rating": 85,
+    "description": "Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!Witness the unveiling of our latest product with a glamorous gala event. Live entertainment, food, and more!",
+    "main_features": ["Product reveal", "Live entertainment", "Cocktail reception"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Gala Events Ltd.",
+      "organizer_image": "https://i.ibb.co/Vg7qjNc/galaLogo.jpg"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Tech Symposium",
+    "bg-image": "https://i.ibb.co/Gnh8SJP/event3.jpg",
+    "category": "Technology Symposia",
+    "date": "2023-10-20",
+    "seat": "400",
+    "location": "Tech Innovation Center",
+    "event_type": "Symposium",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/347VXM5/Google-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.6,
+    "total_rating": 92,
+    "description": "Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!Explore the latest in technology and innovation at our annual tech symposium. Expert speakers and tech demos await!",
+    "main_features": ["Tech demos", "Expert panels", "Networking opportunities"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Tech Innovations Inc.",
+      "organizer_image": "https://i.ibb.co/84qDQnx/Tech-Innovations-Logo.jpg"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Financial Summit",
+    "bg-image": "https://i.ibb.co/KjqSK1C/event4.jpg",
+    "category": "Finance Summits",
+    "date": "2023-08-18",
+    "seat": "250",
+    "location": "Financial Center",
+    "event_type": "Summit",
+    "sponsors": [
+      "https://i.ibb.co/4ZPg8Fg/apple-Logo.png",
+      "https://i.ibb.co/VqM0bXB/gobaltach-Logo.jpg",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.4,
+    "total_rating": 110,
+    "description": "Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at ouGGain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.ain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.r annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.Gain insights into the world of finance at our annual financial summit. Top finance experts share their knowledge.",
+    "main_features": ["Finance keynote speakers", "Investment workshops", "Networking luncheon"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Insider Finance Conference Ltd.",
+      "organizer_image": "https://i.ibb.co/FYVyKDh/insider-Finance-Conference-Logo.jpg"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Digital Marketing Summit",
+    "bg-image": "https://i.ibb.co/2ZHgLQy/event5.jpg",
+    "category": "Marketing",
+    "date": "2023-07-12",
+    "seat": "400",
+    "location": "Digital Hub",
+    "event_type": "Summit",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.5,
+    "total_rating": 105,
+    "description": "Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.Stay ahead in the digital marketing landscape. Top marketers share strategies and insights at our summit.",
+    "main_features": ["Digital marketing workshops", "Marketing case studies", "Networking"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Digi Mar Con",
+      "organizer_image": "https://i.ibb.co/bF8PBp6/digimarcon.png"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Executive Leadership Forum",
+    "bg-image": "https://i.ibb.co/mXzxnNp/event6.jpg",
+    "category": "Business",
+    "date": "2023-06-25",
+    "seat": "200",
+    "location": "Executive Center",
+    "event_type": "Forum",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.7,
+    "total_rating": 95,
+    "description": "Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.Engage in thought-provoking discussions and networking at our executive leadership forum for business leaders.",
+    "main_features": ["Leadership panels", "Networking sessions", "Executive roundtables"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Corporate Events Inc.",
+      "organizer_image": "https://i.ibb.co/cthrQJ1/Corporate-Events-Logo.jpg"
+    }
+  },
+  {
+    "id": "7",
+    "title": "New Product Showcase",
+    "bg-image": "https://i.ibb.co/92m3TM1/event7.jpg",
+    "category": "Product Launches",
+    "date": "2023-08-10",
+    "seat": "150",
+    "location": "Exhibition Center",
+    "event_type": "Showcase",
+    "sponsors": [
+      "https://i.ibb.co/4ZPg8Fg/apple-Logo.png",
+      "https://i.ibb.co/VqM0bXB/gobaltach-Logo.jpg",
+      "https://i.ibb.co/R3bYf01/codeman-BD.webp"
+    ],
+    "rating": 4.9,
+    "total_rating": 80,
+    "description": "Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.Explore the latest product innovations and technologies at our new product showcase event.",
+    "main_features": ["Product demos", "Innovation talks", "Networking"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Gala Events Ltd.",
+      "organizer_image": "https://i.ibb.co/Vg7qjNc/galaLogo.jpg"
+    }
+  },
+  {
+    "id": "8",
+    "title": "AI & Robotics Expo",
+    "bg-image": "https://i.ibb.co/vmpdDbk/event8.png",
+    "category": "Technology Symposia",
+    "date": "2023-09-15",
+    "seat": "300",
+    "location": "Tech Expo Center",
+    "event_type": "Expo",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/347VXM5/Google-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.6,
+    "total_rating": 90,
+    "description": "Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions. Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions. Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions. Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions. Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions. Discover the future of AI and robotics at our technology expo. Hands-on demos and expert discussions.",
+    "main_features": ["AI demos", "Robotics workshops", "Tech innovations"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Tech Innovations Inc.",
+      "organizer_image": "https://i.ibb.co/84qDQnx/Tech-Innovations-Logo.jpg"
+    }
+  },
+  {
+    "id": "9",
+    "title": "Global Finance Summit",
+    "bg-image": "https://i.ibb.co/0Kd9k2M/event9.jpg",
+    "category": "Finance Summits",
+    "date": "2023-11-05",
+    "seat": "350",
+    "location": "Global Finance Hub",
+    "event_type": "Summit",
+    "sponsors": [
+      "https://i.ibb.co/4ZPg8Fg/apple-Logo.png",
+      "https://i.ibb.co/VqM0bXB/gobaltach-Logo.jpg",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.7,
+    "total_rating": 105,
+    "description": "Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! Join global financial leaders for discussions on the future of finance. Networking and insights await! ",
+    "main_features": ["Finance keynotes", "Networking events", "Global finance talks"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Insider Finance Conference Ltd.",
+      "organizer_image": "https://i.ibb.co/FYVyKDh/insider-Finance-Conference-Logo.jpg"
+    }
+  },
+  {
+    "id": "10",
+    "title": "Social Media Marketing Conference",
+    "bg-image": "https://i.ibb.co/jfRZKJB/event10.jpg",
+    "category": "Marketing",
+    "date": "2023-07-30",
+    "seat": "200",
+    "location": "Social Media Center",
+    "event_type": "Conference",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.8,
+    "total_rating": 95,
+    "description": "Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. Stay updated on the latest social media trends and strategies at our marketing conference. Expert speakers and workshops. ",
+    "main_features": ["Social media workshops", "Influencer talks", "Networking receptions"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Digi Mar Con",
+      "organizer_image": "https://i.ibb.co/bF8PBp6/digimarcon.png"
+    }
+  },
+  {
+    "id": "11",
+    "title": "Leadership Development Summit",
+    "bg-image": "https://i.ibb.co/0n84HLc/event11.jpg",
+    "category": "Business",
+    "date": "2023-12-12",
+    "seat": "300",
+    "location": "Leadership Institute",
+    "event_type": "Summit",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.5,
+    "total_rating": 88,
+    "description": "Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. Enhance your leadership skills at our leadership development summit. Interactive workshops and leadership insights. ",
+    "main_features": ["Leadership workshops", "Interactive sessions", "Networking luncheon"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Corporate Events Inc.",
+      "organizer_image": "https://i.ibb.co/cthrQJ1/Corporate-Events-Logo.jpg"
+    }
+  },
+  {
+    "id": "12",
+    "title": "Eco-Tech Expo",
+    "bg-image": "https://i.ibb.co/QPj7Rf8/event12.png",
+    "category": "Technology Symposia",
+    "date": "2023-09-25",
+    "seat": "250",
+    "location": "Eco-Tech Center",
+    "event_type": "Expo",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/347VXM5/Google-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.7,
+    "total_rating": 92,
+    "description": "Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. Explore eco-friendly technologies at our eco-tech expo. Sustainable innovations and expert presentations. ",
+    "main_features": ["Sustainable tech exhibits", "Green energy talks", "Networking opportunities"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Tech Innovations Inc.",
+      "organizer_image": "https://i.ibb.co/84qDQnx/Tech-Innovations-Logo.jpg"
+    }
+  },
+  {
+    "id": "13",
+    "title": "Investment Forum",
+    "bg-image": "https://i.ibb.co/kH9j1XF/event13.jpg",
+    "category": "Finance Summits",
+    "date": "2023-11-20",
+    "seat": "300",
+    "location": "Investment Center",
+    "event_type": "Forum",
+    "sponsors": [
+      "https://i.ibb.co/4ZPg8Fg/apple-Logo.png",
+      "https://i.ibb.co/VqM0bXB/gobaltach-Logo.jpg",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.6,
+    "total_rating": 100,
+    "description": "Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. Discuss investment strategies and opportunities at our investment forum. Top analysts and networking events. ",
+    "main_features": ["Investment discussions", "Expert panels", "Networking luncheon"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Insider Finance Conference Ltd.",
+      "organizer_image": "https://i.ibb.co/FYVyKDh/insider-Finance-Conference-Logo.jpg"
+    }
+  },
+  {
+    "id": "14",
+    "title": "Social Media Advertising Summit",
+    "bg-image": "https://i.ibb.co/xz5t4tK/event14.jpg",
+    "category": "Marketing",
+    "date": "2023-08-05",
+    "seat": "200",
+    "location": "Social Media Hub",
+    "event_type": "Summit",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.8,
+    "total_rating": 95,
+    "description": "Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. Explore the world of social media advertising at our summit. Expert talks and advertising strategies. ",
+    "main_features": ["Advertising workshops", "Influencer panels", "Networking receptions"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Digi Mar Con",
+      "organizer_image": "https://i.ibb.co/bF8PBp6/digimarcon.png"
+    }
+  },
+  {
+    "id": "15",
+    "title": "Leadership Excellence Seminar",
+    "bg-image": "https://i.ibb.co/0n84HLc/event11.jpg",
+    "category": "Business",
+    "date": "2023-10-08",
+    "seat": "150",
+    "location": "Leadership Institute",
+    "event_type": "Seminar",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.7,
+    "total_rating": 90,
+    "description": "Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. Develop leadership excellence at our seminar. Leadership insights and interactive sessions with experts. ",
+    "main_features": ["Leadership talks", "Interactive seminars", "Networking luncheon"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Corporate Events Inc.",
+      "organizer_image": "https://i.ibb.co/cthrQJ1/Corporate-Events-Logo.jpg"
+    }
+  },
+  {
+    "id": "16",
+    "title": "AI in Healthcare Symposium",
+    "bg-image": "https://i.ibb.co/f2DLh47/event16.jpg",
+    "category": "Technology Symposia",
+    "date": "2023-11-30",
+    "seat": "250",
+    "location": "Healthcare Innovation Center",
+    "event_type": "Symposium",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/347VXM5/Google-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.6,
+    "total_rating": 88,
+    "description": "Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposiuExplore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. m. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. Explore the applications of AI in healthcare at our symposium. Expert discussions and healthcare tech demos. ",
+    "main_features": ["Healthcare tech demos", "Expert panels", "Networking opportunities"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Tech Innovations Inc.",
+      "organizer_image": "https://i.ibb.co/84qDQnx/Tech-Innovations-Logo.jpg"
+    }
+  },
+  {
+    "id": "17",
+    "title": "Real Estate Investment Summit",
+    "bg-image": "https://i.ibb.co/gPTjfdB/event17.jpg",
+    "category": "Finance Summits",
+    "date": "2023-09-10",
+    "seat": "300",
+    "location": "Real Estate Center",
+    "event_type": "Summit",
+    "sponsors": [
+      "https://i.ibb.co/4ZPg8Fg/apple-Logo.png",
+      "https://i.ibb.co/VqM0bXB/gobaltach-Logo.jpg",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.7,
+    "total_rating": 92,
+    "description": "Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. Discuss real estate investment strategies at our summit. Real estate experts and networking opportunities. ",
+    "main_features": ["Real estate talks", "Investment panels", "Networking luncheon"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Insider Finance Conference Ltd.",
+      "organizer_image": "https://i.ibb.co/FYVyKDh/insider-Finance-Conference-Logo.jpg"
+    }
+  },
+  {
+    "id": "18",
+    "title": "Content Marketing Workshop",
+    "bg-image": "https://i.ibb.co/gtdXDVH/event18.jpg",
+    "category": "Marketing",
+    "date": "2023-08-22",
+    "seat": "100",
+    "location": "Marketing Institute",
+    "event_type": "Workshop",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.9,
+    "total_rating": 85,
+    "description": "Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. Enhance your content marketing skills at our workshop. Hands-on sessions and content strategies. ",
+    "main_features": ["Content marketing workshops", "Hands-on exercises", "Networking breaks"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Digi Mar Con",
+      "organizer_image": "https://i.ibb.co/bF8PBp6/digimarcon.png"
+    }
+  },
+  {
+    "id": "19",
+    "title": "Leadership Retreat",
+    "bg-image": "https://i.ibb.co/Dr9RYRS/event19.jpg",
+    "category": "Business",
+    "date": "2023-09-02",
+    "seat": "150",
+    "location": "Retreat Center",
+    "event_type": "Retreat",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png",
+      "https://i.ibb.co/qFz4rtg/techlogo.jpg"
+    ],
+    "rating": 4.8,
+    "total_rating": 90,
+    "description": "Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. LeaderExperience a leadership retreat like no other. Leadership development, nature, and relaxation. ship development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. Experience a leadership retreat like no other. Leadership development, nature, and relaxation. ",
+    "main_features": ["Leadership development", "Outdoor activities", "Relaxation sessions"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Corporate Events Inc.",
+      "organizer_image": "https://i.ibb.co/cthrQJ1/Corporate-Events-Logo.jpg"
+    }
+  },
+  {
+    "id": "20",
+    "title": "Blockchain & Cryptocurrency Summit",
+    "bg-image": "https://i.ibb.co/1vfnW0Y/event20.jpg",
+    "category": "Technology Symposia",
+    "date": "2023-10-05",
+    "seat": "350",
+    "location": "Blockchain Hub",
+    "event_type": "Summit",
+    "sponsors": [
+      "https://i.ibb.co/WDQYFJJ/amazon-Logo.png",
+      "https://i.ibb.co/347VXM5/Google-Logo.png",
+      "https://i.ibb.co/xsfZdms/tesla-Logo.png"
+    ],
+    "rating": 4.6,
+    "total_rating": 95,
+    "description": "Explore the world of blockchain and cryptocurrency at our summit. Expert discussions and blockchain demos.",
+    "main_features": ["Blockchain demos", "Crypto panels", "Networking opportunities"],
+    "gallery_images": [
+      "https://i.ibb.co/hcL9VBg/gallery-1.jpg",
+      "https://i.ibb.co/xGrk4tk/gallery-2.jpg",
+      "https://i.ibb.co/HgC75pD/gallery-3.jpg",
+      "https://i.ibb.co/hC0cpTJ/gallery-4.png",
+      "https://i.ibb.co/dQhPvyd/gallery-5.png",
+      "https://i.ibb.co/HGpb04L/gallery-6.png",
+      "https://i.ibb.co/C6jNFb5/gallery-7.png"
+    ],
+    "event_organizer": {
+      "name": "Tech Innovations Inc.",
+      "organizer_image": "https://i.ibb.co/84qDQnx/Tech-Innovations-Logo.jpg"
+    }
+  }
+]
