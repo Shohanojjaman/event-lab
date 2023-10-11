@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { Link, useLocation } from 'react-router-dom';
 import BGTitle from './BGTitle';
 
-const PageTitle = ({ title }) => {
+const PageTitle = ({ title, subTitle }) => {
   const location = useLocation();
   console.log(location);
   return (
@@ -18,8 +18,13 @@ const PageTitle = ({ title }) => {
               <Link to={'/'}>Home</Link>
             </li>
             <li>
-              <Link>Events</Link>
+              <Link>{title}</Link>
             </li>
+            {subTitle && (
+              <li>
+                <Link>Events</Link>
+              </li>
+            )}
           </ul>
         </div>
       </div>
@@ -30,6 +35,7 @@ const PageTitle = ({ title }) => {
 
 PageTitle.propTypes = {
   title: PropTypes.string.isRequired,
+  subTitle: PropTypes.string.isRequired,
 };
 
 export default PageTitle;
