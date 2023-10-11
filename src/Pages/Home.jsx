@@ -1,10 +1,13 @@
 import HeroSection from '../Components/utilities/HeroSection';
+import PopularEvents from '../Components/utilities/PopularEvents';
 
 const Home = () => {
   return (
     <div>
       {/* Hero / Banner Section */}
-      <HeroSection></HeroSection>
+      <HeroSection />
+      {/* Popular Event */}
+      <PopularEvents />
     </div>
   );
 };
