@@ -1,5 +1,6 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Mainlayout from '../Layout/Mainlayout';
+import Events from '../Pages/Events';
 import Home from '../Pages/Home';
 import Login from '../Pages/Login';
 import Register from '../Pages/Register';
@@ -19,7 +20,7 @@ const MainRoutes = createBrowserRouter([
       },
       {
         path: '/events',
-        element: <>Events</>,
+        element: <Events />,
       },
       {
         path: '/blogs',
