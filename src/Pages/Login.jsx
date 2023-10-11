@@ -1,10 +1,12 @@
 import { Card, Label, TextInput } from 'flowbite-react';
 import { useContext } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../Components/Context/AuthContextProvider';
 import SocialLogIn from '../Components/utilities/SocialLogin';
 
 const Login = () => {
+  const location = useLocation();
+  const navigate = useNavigate();
   const { logIn } = useContext(AuthContext);
 
   const handleLogin = (event) => {
@@ -15,7 +17,12 @@ const Login = () => {
     const password = form.get('password'); // User's Password
 
     // Login a user
-    logIn(email, password);
+    logIn(email, password)
+      .then((res) => {
+        console.log(res);
+        navigate(location?.state ? location?.state : '/');
+      })
+      .catch((err) => console.error(err));
   };
 
   return (

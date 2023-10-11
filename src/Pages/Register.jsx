@@ -1,11 +1,12 @@
 import { Card, Label, TextInput } from 'flowbite-react';
 import { useContext } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../Components/Context/AuthContextProvider';
 import SocialLogIn from '../Components/utilities/SocialLogin';
 
 const Register = () => {
   const { createUser, updateUser } = useContext(AuthContext);
+  const navigate = useNavigate();
 
   const handleRegister = (event) => {
     event.preventDefault();
@@ -17,7 +18,14 @@ const Register = () => {
     const password = form.get('password'); // User's Password
 
     // Register a user
-    createUser(email, password);
+    createUser(email, password)
+      .then((res) => {
+        console.log(res);
+        navigate('/');
+      })
+      .catch((err) => console.error(err));
+
+    // Update user
     updateUser(displayName, photoPath);
   };
   return (
