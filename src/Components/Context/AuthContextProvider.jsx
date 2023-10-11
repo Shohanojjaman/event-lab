@@ -16,6 +16,7 @@ export const AuthContext = createContext(null);
 
 const AuthContextProvider = ({ children }) => {
   const [user, setUser] = useState(null);
+  const [loading, setLoading] = useState(true);
   const googleProvider = new GoogleAuthProvider();
   const githubProvider = new GithubAuthProvider();
 
@@ -26,6 +27,7 @@ const AuthContextProvider = ({ children }) => {
    * @returns A new user
    */
   const createUser = (email, password) => {
+    setLoading(true);
     return createUserWithEmailAndPassword(auth, email, password)
       .then((result) => console.log(result))
       .catch((err) => console.error(err));
@@ -38,17 +40,20 @@ const AuthContextProvider = ({ children }) => {
    * @returns Log in user
    */
   const logIn = (email, password) => {
+    setLoading(true);
     return signInWithEmailAndPassword(auth, email, password)
       .then((res) => console.log(res))
       .catch((err) => console.error(err));
   };
 
   const googleLogIn = () => {
+    setLoading(true);
     return signInWithPopup(auth, googleProvider)
       .then((res) => console.log(res))
       .catch((err) => console.error(err));
   };
   const githubLogIn = () => {
+    setLoading(true);
     return signInWithPopup(auth, githubProvider)
       .then((res) => console.log(res))
       .catch((err) => console.error(err));
@@ -61,6 +66,7 @@ const AuthContextProvider = ({ children }) => {
    * @returns Update user's profile
    */
   const updateUser = (displayName, photoURL) => {
+    setLoading(true);
     return updateProfile(user, {
       displayName: displayName,
       photoURL: photoURL,
@@ -74,17 +80,21 @@ const AuthContextProvider = ({ children }) => {
    * @returns LogOut a user
    */
   const logOut = () => {
+    setLoading(true);
     return signOut(auth);
   };
 
   useEffect(() => {
-    onAuthStateChanged(auth, (currentUser) => {
+    const unSubscribe = onAuthStateChanged(auth, (currentUser) => {
       setUser(currentUser);
+      setLoading(false);
     });
+    return () => unSubscribe();
   }, []);
 
   const authInfo = {
     user,
+    loading,
     createUser,
     logIn,
     logOut,
