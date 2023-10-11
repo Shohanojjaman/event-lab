@@ -16,7 +16,7 @@ const MainRoutes = createBrowserRouter([
         element: <>About</>,
       },
       {
-        path: 'events',
+        path: '/events',
         element: <>Events</>,
       },
       {
