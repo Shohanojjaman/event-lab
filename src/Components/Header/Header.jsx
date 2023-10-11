@@ -50,7 +50,7 @@ const Header = () => {
   return (
     <div
       className={
-        navbar ? 'bg-white fixed top-0 w-full' : 'bg-transparent transition-all duration-300 fixed top-0 w-full'
+        navbar ? 'bg-white fixed top-0 w-full z-10' : 'bg-transparent transition-all duration-300 fixed top-0 w-full'
       }>
       <div className="container mx-auto">
         <div className="navbar items-center py-4">
