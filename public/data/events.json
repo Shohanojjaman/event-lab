@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Annual Corporate Conference",
-    "bg-image": "https://i.ibb.co/hB42W8L/event1.jpg",
+    "bg_image": "https://i.ibb.co/hB42W8L/event1.jpg",
     "category": "Business",
     "date": "2023-11-15",
     "seat": "500",
@@ -34,7 +34,7 @@
   {
     "id": "2",
     "title": "Product Launch Gala",
-    "bg-image": "https://i.ibb.co/rsphnYL/event2.jpg",
+    "bg_image": "https://i.ibb.co/rsphnYL/event2.jpg",
     "category": "Product Launches",
     "date": "2023-09-28",
     "seat": "300",
@@ -66,7 +66,7 @@
   {
     "id": "3",
     "title": "Tech Symposium",
-    "bg-image": "https://i.ibb.co/Gnh8SJP/event3.jpg",
+    "bg_image": "https://i.ibb.co/Gnh8SJP/event3.jpg",
     "category": "Technology Symposia",
     "date": "2023-10-20",
     "seat": "400",
@@ -98,7 +98,7 @@
   {
     "id": "4",
     "title": "Financial Summit",
-    "bg-image": "https://i.ibb.co/KjqSK1C/event4.jpg",
+    "bg_image": "https://i.ibb.co/KjqSK1C/event4.jpg",
     "category": "Finance Summits",
     "date": "2023-08-18",
     "seat": "250",
@@ -130,7 +130,7 @@
   {
     "id": "5",
     "title": "Digital Marketing Summit",
-    "bg-image": "https://i.ibb.co/2ZHgLQy/event5.jpg",
+    "bg_image": "https://i.ibb.co/2ZHgLQy/event5.jpg",
     "category": "Marketing",
     "date": "2023-07-12",
     "seat": "400",
@@ -162,7 +162,7 @@
   {
     "id": "6",
     "title": "Executive Leadership Forum",
-    "bg-image": "https://i.ibb.co/mXzxnNp/event6.jpg",
+    "bg_image": "https://i.ibb.co/mXzxnNp/event6.jpg",
     "category": "Business",
     "date": "2023-06-25",
     "seat": "200",
@@ -194,7 +194,7 @@
   {
     "id": "7",
     "title": "New Product Showcase",
-    "bg-image": "https://i.ibb.co/92m3TM1/event7.jpg",
+    "bg_image": "https://i.ibb.co/92m3TM1/event7.jpg",
     "category": "Product Launches",
     "date": "2023-08-10",
     "seat": "150",
@@ -226,7 +226,7 @@
   {
     "id": "8",
     "title": "AI & Robotics Expo",
-    "bg-image": "https://i.ibb.co/vmpdDbk/event8.png",
+    "bg_image": "https://i.ibb.co/vmpdDbk/event8.png",
     "category": "Technology Symposia",
     "date": "2023-09-15",
     "seat": "300",
@@ -258,7 +258,7 @@
   {
     "id": "9",
     "title": "Global Finance Summit",
-    "bg-image": "https://i.ibb.co/0Kd9k2M/event9.jpg",
+    "bg_image": "https://i.ibb.co/0Kd9k2M/event9.jpg",
     "category": "Finance Summits",
     "date": "2023-11-05",
     "seat": "350",
@@ -290,7 +290,7 @@
   {
     "id": "10",
     "title": "Social Media Marketing Conference",
-    "bg-image": "https://i.ibb.co/jfRZKJB/event10.jpg",
+    "bg_image": "https://i.ibb.co/jfRZKJB/event10.jpg",
     "category": "Marketing",
     "date": "2023-07-30",
     "seat": "200",
@@ -322,7 +322,7 @@
   {
     "id": "11",
     "title": "Leadership Development Summit",
-    "bg-image": "https://i.ibb.co/0n84HLc/event11.jpg",
+    "bg_image": "https://i.ibb.co/0n84HLc/event11.jpg",
     "category": "Business",
     "date": "2023-12-12",
     "seat": "300",
@@ -354,7 +354,7 @@
   {
     "id": "12",
     "title": "Eco-Tech Expo",
-    "bg-image": "https://i.ibb.co/QPj7Rf8/event12.png",
+    "bg_image": "https://i.ibb.co/QPj7Rf8/event12.png",
     "category": "Technology Symposia",
     "date": "2023-09-25",
     "seat": "250",
@@ -386,7 +386,7 @@
   {
     "id": "13",
     "title": "Investment Forum",
-    "bg-image": "https://i.ibb.co/kH9j1XF/event13.jpg",
+    "bg_image": "https://i.ibb.co/kH9j1XF/event13.jpg",
     "category": "Finance Summits",
     "date": "2023-11-20",
     "seat": "300",
@@ -418,7 +418,7 @@
   {
     "id": "14",
     "title": "Social Media Advertising Summit",
-    "bg-image": "https://i.ibb.co/xz5t4tK/event14.jpg",
+    "bg_image": "https://i.ibb.co/xz5t4tK/event14.jpg",
     "category": "Marketing",
     "date": "2023-08-05",
     "seat": "200",
@@ -450,7 +450,7 @@
   {
     "id": "15",
     "title": "Leadership Excellence Seminar",
-    "bg-image": "https://i.ibb.co/0n84HLc/event11.jpg",
+    "bg_image": "https://i.ibb.co/0n84HLc/event11.jpg",
     "category": "Business",
     "date": "2023-10-08",
     "seat": "150",
@@ -482,7 +482,7 @@
   {
     "id": "16",
     "title": "AI in Healthcare Symposium",
-    "bg-image": "https://i.ibb.co/f2DLh47/event16.jpg",
+    "bg_image": "https://i.ibb.co/f2DLh47/event16.jpg",
     "category": "Technology Symposia",
     "date": "2023-11-30",
     "seat": "250",
@@ -514,7 +514,7 @@
   {
     "id": "17",
     "title": "Real Estate Investment Summit",
-    "bg-image": "https://i.ibb.co/gPTjfdB/event17.jpg",
+    "bg_image": "https://i.ibb.co/gPTjfdB/event17.jpg",
     "category": "Finance Summits",
     "date": "2023-09-10",
     "seat": "300",
@@ -546,7 +546,7 @@
   {
     "id": "18",
     "title": "Content Marketing Workshop",
-    "bg-image": "https://i.ibb.co/gtdXDVH/event18.jpg",
+    "bg_image": "https://i.ibb.co/gtdXDVH/event18.jpg",
     "category": "Marketing",
     "date": "2023-08-22",
     "seat": "100",
@@ -578,7 +578,7 @@
   {
     "id": "19",
     "title": "Leadership Retreat",
-    "bg-image": "https://i.ibb.co/Dr9RYRS/event19.jpg",
+    "bg_image": "https://i.ibb.co/Dr9RYRS/event19.jpg",
     "category": "Business",
     "date": "2023-09-02",
     "seat": "150",
@@ -610,7 +610,7 @@
   {
     "id": "20",
     "title": "Blockchain & Cryptocurrency Summit",
-    "bg-image": "https://i.ibb.co/1vfnW0Y/event20.jpg",
+    "bg_image": "https://i.ibb.co/1vfnW0Y/event20.jpg",
     "category": "Technology Symposia",
     "date": "2023-10-05",
     "seat": "350",
