@@ -1,8 +1,12 @@
 import Hamburger from 'hamburger-react';
-import { useState } from 'react';
+import { useContext, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
+import { AuthContext } from '../Context/AuthContextProvider';
+
+const defaultUserPic = 'https://i.ibb.co/zxqmRnL/user.png';
 
 const Header = () => {
+  const { user, logOut } = useContext(AuthContext);
   const [navbar, setNavbar] = useState(false);
   const [isOpen, setOpen] = useState(false);
   const logo = 'https://i.ibb.co/TmYqw6T/logo.png';
@@ -81,10 +85,22 @@ const Header = () => {
                 </ul>
               </div>
             </div>
-
-            <Link to={'/login'} className="primary-btn hidden lg:inline-block">
-              Log in
-            </Link>
+            {user && (
+              <label className="btn btn-ghost btn-circle avatar">
+                <div className="w-10 rounded-full">
+                  <img className="w-10" src={user.photoURL ? user?.photoURL : defaultUserPic} alt="" />
+                </div>
+              </label>
+            )}
+            <button className="primary-btn hidden lg:inline-block ml-4">
+              {user ? (
+                <Link onClick={logOut} to={'/login'}>
+                  LogOut
+                </Link>
+              ) : (
+                <Link to={'/login'}>Login</Link>
+              )}
+            </button>
           </div>
         </div>
       </div>
