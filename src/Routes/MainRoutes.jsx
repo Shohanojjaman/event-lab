@@ -8,6 +8,7 @@ import Events from '../Pages/Events';
 import Home from '../Pages/Home';
 import Login from '../Pages/Login';
 import Register from '../Pages/Register';
+import PrivateRoute from './PrivateRoute';
 
 const MainRoutes = createBrowserRouter([
   {
@@ -28,7 +29,11 @@ const MainRoutes = createBrowserRouter([
       },
       {
         path: '/events/:id',
-        element: <EventDetails />,
+        element: (
+          <PrivateRoute>
+            <EventDetails />
+          </PrivateRoute>
+        ),
       },
       {
         path: '/blogs',
@@ -36,7 +41,11 @@ const MainRoutes = createBrowserRouter([
       },
       {
         path: '/blogs/:id',
-        element: <BlogDetails />,
+        element: (
+          <PrivateRoute>
+            <BlogDetails />
+          </PrivateRoute>
+        ),
       },
       {
         path: '/login',
