@@ -4,7 +4,7 @@ import { BsCalendarWeek } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
 
 const BlogsCard = ({ blog, index }) => {
-  const { title, bg_image, tags, publish_date } = blog || {};
+  const { id, title, bg_image, tags, publish_date } = blog || {};
   console.log(index, blog);
   return (
     <div
@@ -27,7 +27,9 @@ const BlogsCard = ({ blog, index }) => {
         </div>
         <h4 className="text-xl font-semibold text-heading capitalize">{title}</h4>
         <div className="flex justify-between">
-          <Link className="text-theme font-bold hover:underline transition-all duration-300">Details</Link>
+          <Link to={`/blogs/${id}`} className="text-theme font-bold hover:underline transition-all duration-300">
+            Details
+          </Link>
         </div>
       </div>
     </div>
