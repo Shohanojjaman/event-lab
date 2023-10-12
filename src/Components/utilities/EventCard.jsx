@@ -6,7 +6,7 @@ import { IoLocationOutline } from 'react-icons/io5';
 import { Link } from 'react-router-dom';
 
 const EventCard = ({ event, index }) => {
-  const { bg_image, date, location, seat, title } = event || {};
+  const { id, bg_image, date, location, seat, title } = event || {};
   console.log(index);
 
   return (
@@ -30,7 +30,9 @@ const EventCard = ({ event, index }) => {
         </div>
         <h4 className="text-xl font-semibold text-heading capitalize">{title}</h4>
         <div className="flex justify-between">
-          <Link className="text-theme font-bold hover:underline transition-all duration-300">Details</Link>
+          <Link to={`/events/${id}`} className="text-theme font-bold hover:underline transition-all duration-300">
+            Details
+          </Link>
           <div className="flex gap-4">
             <div className="hidden gap-4 group-hover:flex transition-all duration-300">
               <Link>
