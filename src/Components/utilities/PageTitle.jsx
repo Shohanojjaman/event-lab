@@ -1,10 +1,8 @@
 import PropTypes from 'prop-types';
-import { Link, useLocation } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import BGTitle from './BGTitle';
 
 const PageTitle = ({ title, subTitle }) => {
-  const location = useLocation();
-  console.log(location);
   return (
     <div className="page-title-bg">
       <div className="container mx-auto min-h-[400px] flex flex-col items-center justify-center">
@@ -22,7 +20,7 @@ const PageTitle = ({ title, subTitle }) => {
             </li>
             {subTitle && (
               <li>
-                <Link>Events</Link>
+                <Link>{subTitle}</Link>
               </li>
             )}
           </ul>
